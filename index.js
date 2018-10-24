@@ -1,4 +1,4 @@
-'use strict';
+'function effectiveDamage(power, armor, armorPenetration) {use strict';
 
 /**
  * 攻撃力が防御力や防御力貫通によってどのようなダメージになるのかを計算する関数
